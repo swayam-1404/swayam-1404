@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a full stack developer<br>👯 I’m looking to collaborate on app development projects<br>🤝 I’m looking for help with databases<br>🌱 I’m currently learning google flutter<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as a full stack developer<br>👯 I’m looking to collaborate on app development projects<br>🤝 I’m looking for help with databases<br>🌱 I’m currently learning google flutter
 
 
 ## 🌐 Socials:
